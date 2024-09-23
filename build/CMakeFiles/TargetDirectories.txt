@@ -1,3 +1,0 @@
-/home/ywm/DSLI/indices/build/CMakeFiles/testZM.dir
-/home/ywm/DSLI/indices/build/CMakeFiles/edit_cache.dir
-/home/ywm/DSLI/indices/build/CMakeFiles/rebuild_cache.dir

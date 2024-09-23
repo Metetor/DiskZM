@@ -1,3 +1,0 @@
-/home/ywm/DSLI/indices/lipp/build/CMakeFiles/lipp.dir
-/home/ywm/DSLI/indices/lipp/build/CMakeFiles/edit_cache.dir
-/home/ywm/DSLI/indices/lipp/build/CMakeFiles/rebuild_cache.dir
